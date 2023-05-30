@@ -1,2 +1,2 @@
-console.log('123123123')
+console.log('abc+32')
 console.log('print3', self)
