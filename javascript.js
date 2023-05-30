@@ -1,1 +1,2 @@
-console.log('123123123', cartState)
+console.log('123123123')
+console.log('print3', self)
